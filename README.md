@@ -1,6 +1,6 @@
 # OrbitFlame AI
 
-> **Status: in preparation.** This is a team project for the **NASA International Space Apps Challenge 2026**, in the *Flame in Freefall* challenge. No solution has been built yet. The solution will be created during the official hackathon period, following the event rules.
+> **Status: team formation / planning.** This is a team project for the **NASA International Space Apps Challenge 2026**, challenge **"Flame in Freefall: AI-Powered Fire Safety Insights from Microgravity Combustion Data"**. No solution has been built yet. Challenge development will happen during the official hackathon period, following the event rules.
 
 ## The idea
 
@@ -29,14 +29,14 @@ To be confirmed against the official challenge page once it is published:
 
 | Name | Role | GitHub |
 |---|---|---|
-| _TODO_ | _TODO_ | _TODO_ |
-| _TODO_ | _TODO_ | _TODO_ |
+| [Your name] | Team Lead | [@emanmusheer2008-glitch](https://github.com/emanmusheer2008-glitch) |
+| _TODO: add teammates only with their permission_ | | |
 
 ## Timeline
 
 | Phase | Status |
 |---|---|
-| Team formation and registration | _TODO_ |
+| Team formation and registration | In progress |
 | Background reading (see `docs/background.md`) | In progress |
 | Hackathon: build the solution | _Official dates: check spaceappschallenge.org_ |
 | Submission and demo video | _Not started_ |

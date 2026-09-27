@@ -20,6 +20,7 @@ _TODO after the official challenge page is published_
 ## Roles
 | Person | Role |
 |---|---|
+| [Your name] | Team Lead |
 | | |
 
 ## Decisions log
