@@ -29,7 +29,7 @@ To be confirmed against the official challenge page once it is published:
 
 | Name | Role | GitHub |
 |---|---|---|
-| [Your name] | Team Lead | [@emanmusheer2008-glitch](https://github.com/emanmusheer2008-glitch) |
+| Eman Musheer | Team Lead | [@emanmusheer2008-glitch](https://github.com/emanmusheer2008-glitch) |
 | _TODO: add teammates only with their permission_ | | |
 
 ## Timeline
