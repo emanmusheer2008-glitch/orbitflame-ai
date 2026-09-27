@@ -1,0 +1,19 @@
+# Data and secrets
+data/*
+!data/.gitkeep
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Node (if a web app is built)
+node_modules/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
